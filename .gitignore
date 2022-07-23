@@ -3,7 +3,7 @@
 
 # Generated Assets
 /build
-/docs
+#/docs
 
 # Enviornment Files
 .DS_Store
